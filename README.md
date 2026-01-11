@@ -25,7 +25,7 @@ If any step fails, the process stops, preventing broken code from ever reaching 
 ## 🏗️ Architecture Diagram 
 
 <p align="center">
-  <img src="assets/architecture.png" width="700"/>
+  <img src="assets/Architecture_diagram.png" width="700"/>
 </p>
 
 ## Architecture & Services
