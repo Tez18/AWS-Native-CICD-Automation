@@ -41,6 +41,8 @@ If any step fails, the process stops, preventing broken code from ever reaching 
 ## Project Structure
 ```text
 aws-cicd-pipeline/
+└── assets/                  #images
+    ├── Architecture_diagram.png
 ├── index.js                # Sample Node.js App
 ├── buildspec.yml           # CodeBuild instructions
 ├── appspec.yml             # CodeDeploy instructions
