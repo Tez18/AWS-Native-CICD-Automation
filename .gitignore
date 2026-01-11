@@ -1,0 +1,7 @@
+node_modules/
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+app.out
+app.err
